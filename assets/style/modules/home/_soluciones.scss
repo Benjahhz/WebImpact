@@ -1,0 +1,71 @@
+.seccion-soluciones {
+  color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  font-family: $fuentePrincipal;
+  @include desktop {
+    width: 90%;
+    margin: 20rem auto;
+    gap: 4rem;
+  }
+  &__title {
+    font-size: 6rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-align: start;
+    margin: 0;
+    font-size: clamp(2.4rem, 10vw, 6rem);
+    @include desktop {
+      text-align: center;
+    }
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    .img-container {
+      min-height: 40vh;
+    }
+    .box-content {
+      background-color: #5153529c;
+      margin-top: -4rem;
+      width: 90%;
+      align-self: center;
+      border-radius: 2rem;
+      text-align: center;
+      padding: 2rem;
+      backdrop-filter: blur(5px);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      gap: 1rem;
+      max-width: 35rem;
+      @include desktop {
+        margin-top: -7rem;
+      }
+    }
+    .text {
+      color: rgb(206, 206, 206);
+      font-weight: lighter;
+      font-size: clamp(1.2rem, 5vw, 1.6rem);
+      line-height: 2.5rem;
+      margin: 0;
+    }
+    .title {
+      font-size: clamp(1.4rem, 8vw, 2.4rem);
+      margin: 0;
+    }
+  }
+}
+.glider-track {
+  gap: 2rem;
+  @include desktop {
+    gap: 0;
+  }
+}
+@include desktop {
+  .glider-child {
+    display: flex;
+  }
+}

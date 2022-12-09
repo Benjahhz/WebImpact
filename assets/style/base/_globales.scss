@@ -1,0 +1,61 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  font-size: 1.6rem;
+  background-color: $colorNegro;
+  margin: 0;
+  padding: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+
+}
+
+.container {
+  width: 97%;
+  margin: 2rem auto;
+  @include desktop{
+    width: 100%;
+    margin: 0;
+  }
+}
+a {
+  text-decoration: none;
+  color: $colorTexto;
+  font-family: $fuentePrincipal;
+}
+img,
+picture {
+  width: 100%;
+  display: block;
+}
+
+.mh-100 {
+  min-height: 100vh;
+  @include desktop {
+    min-height: 75vh;
+  }
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.swal2-popup {
+  font-size: 1.6rem !important;
+}
+.root{
+  background-color: $colorGrisLight;
+  border-radius: 2rem;
+  @include desktop{
+    border-radius: 0;
+  }
+  position: relative;
+
+}
+

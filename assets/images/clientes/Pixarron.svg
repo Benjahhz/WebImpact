@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.192" height="31.628" viewBox="0 0 122.192 31.628">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_39712" data-name="Trazado 39712" d="M173.2,203.4v-12.2a.774.774,0,0,1,.773-.773h11.62a.775.775,0,0,1,.777.771v6.833l-5.656.076-.01,6.068h-6.731a.774.774,0,0,1-.773-.773m.773-16.422a4.226,4.226,0,0,0-4.22,4.22v12.2a4.225,4.225,0,0,0,4.22,4.22h10.177V201.5l5.664-.076V191.194a4.226,4.226,0,0,0-4.108-4.22Z" transform="translate(-169.749 -186.974)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-7.645" y1="17.602" x2="-7.6" y2="17.602" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="silver"/>
+      <stop offset="0.019" stop-color="silver"/>
+      <stop offset="0.134" stop-color="silver"/>
+      <stop offset="0.265" stop-color="#bfbfbf"/>
+      <stop offset="0.418" stop-color="#bfbfbf"/>
+      <stop offset="0.614" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#bfbfbf"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_2046" data-name="Rectángulo 2046" width="7.892" height="4.333" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_39713" data-name="Trazado 39713" d="M173.565,191.193c-.111-1,1.071-3.663,4.857-4.22h2.753l.041,3.448h-6.878c-.711.011-.773.773-.773.773" transform="translate(-173.558 -186.973)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectángulo_2048" data-name="Rectángulo 2048" width="95.586" height="31.628" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_13697" data-name="Grupo 13697" transform="translate(-4385.376 -5838.229)">
+    <g id="Grupo_13696" data-name="Grupo 13696">
+      <g id="Grupo_11407" data-name="Grupo 11407" transform="translate(4385.376 5842.658)">
+        <g id="Grupo_11406" data-name="Grupo 11406" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_2042" data-name="Rectángulo 2042" width="20.061" height="20.638" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Grupo_11417" data-name="Grupo 11417" transform="translate(4388.657 5842.586)" opacity="0.6">
+        <g id="Grupo_11416" data-name="Grupo 11416">
+          <g id="Grupo_11415" data-name="Grupo 11415" clip-path="url(#clip-path-2)">
+            <g id="Grupo_11414" data-name="Grupo 11414" transform="translate(0.161 0.071)">
+              <g id="Grupo_11413" data-name="Grupo 11413" clip-path="url(#clip-path-3)">
+                <g id="Grupo_11412" data-name="Grupo 11412" transform="translate(-0.161 -0.071)" style="isolation: isolate">
+                  <g id="Grupo_11411" data-name="Grupo 11411">
+                    <g id="Grupo_11410" data-name="Grupo 11410" clip-path="url(#clip-path-2)">
+                      <g id="Grupo_11409" data-name="Grupo 11409" transform="translate(0 0)">
+                        <g id="Grupo_11408" data-name="Grupo 11408" clip-path="url(#clip-path-2)">
+                          <image id="Rectángulo_2043" data-name="Rectángulo 2043" width="7.892" height="4.333" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAA4CAYAAAAPW43lAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADBSURBVHhe7dGxDcJAEADBNz3RAH3TADVhbEIHDh7kYIMZ6aTT6z7aZTzu27jOOjnvk7fZ+fXvv/efwz47l9xvz9d6+y4ECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTJQwUcJECRMlTNIYO8BeVm1V8VK2AAAAAElFTkSuQmCC"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_11423" data-name="Grupo 11423" transform="translate(4411.982 5838.229)" style="isolation: isolate">
+        <g id="Grupo_11422" data-name="Grupo 11422">
+          <g id="Grupo_11421" data-name="Grupo 11421" clip-path="url(#clip-path-6)">
+            <g id="Grupo_11420" data-name="Grupo 11420" style="isolation: isolate">
+              <g id="Grupo_11419" data-name="Grupo 11419">
+                <g id="Grupo_11418" data-name="Grupo 11418" clip-path="url(#clip-path-6)">
+                  <text id="pixarron" transform="translate(0 17.898)" fill="#fff" font-size="21" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">pixarron</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
